@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Behave
+          _____
+       __|___  |__ ______ __   _ ____ __    _______ 
+      |      >    |   ___|  |_| |    \ \ \  /|   ___|
+      |     <     |   ___|   _  |     \\  \//|   ___|
+      |______>  __|______|__| |_|__|\\__\\__/|______|
+          |_____|                                    			
+             Copyright C++ K-03 IF2016
+----
+## Description
+This repository is a task for IF2121 Logic of Informatics, Department of Informatics, School of Electrical Engineering and Informatics, Bandung Institute of Technology. Behave is CLI-based adventure game built using Prolog. Player need to find item inside the map and fight enemies in order to win.
 
-You can use the [editor on GitHub](https://github.com/christianwbsn/behave-game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Requirements
+* GNU Prolog
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Usage
+```
+[main.pl].
+new
+```
+## Available command
+Run the game and use help features. Voila
+```
+help.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christianwbsn/behave-game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Authors
+* **[Jason Wiguna](https://github.com/jasonwiguna)** - 13516024
+* **[Steven Sukma Limanus](https://github.com/stevensukma)** - 13516102
+* **[Eric Jonathan](https://github.com/ericjonathan6)** - 13516117
+* **[Christian Wibisono](https://github.com/christianwbsn)** - 13516147
